@@ -4,7 +4,7 @@
 
 Semplice traduzione del celeberrimo *[The Little Book on CoffeeScript](https://github.com/arcturo/library/tree/master/coffeescript "The little book on CoffeeScript")*, scritto da **Alex MacCaw**.
 
-### Chi è l'Autore ###
+### Chi è l'Autore originale ###
 
 **Alex Maccaw** è uno sviluppatore di Ruby/JavaScript e imprenditore. Ha scritto un
 Framework JavaScript, **Spine**, e le sue principali applicazioni sviluppate sono Taskforce
