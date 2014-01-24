@@ -1,6 +1,4 @@
-# README #
-
-## The Little Book on CoffeeScript in Italiano! ##
+# The Little Book on CoffeeScript in Italiano! #
 
 Semplice traduzione del celeberrimo *[The Little Book on CoffeeScript](https://github.com/arcturo/library/tree/master/coffeescript "The little book on CoffeeScript")*, scritto da **Alex MacCaw**.
 
