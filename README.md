@@ -9,3 +9,7 @@ Framework JavaScript, **Spine**, e le sue principali applicazioni sviluppate son
 e Socialmod, nonché una serie di lavori open source. Ha parlato alle conferenze su Ruby/Rails in New York City, San Francisco e Berlino. Oltre alla programmazione, è attualmente in giro per il mondo con una Nikon D90 e una tavola da surf.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sniperwolf/the-little-book-on-coffeescript-italiano/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sniperwolf/the-little-book-on-coffeescript-italiano/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
